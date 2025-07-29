@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+SUMMARY:Censo Demográfico 2022: Coordenadas dos endereços
+DESCRIPTION:Cadastro Nacional de Endereços para Fins Estatísticos
+DTSTART;TZID=America/Sao_Paulo:20240202T090000
+DTEND;TZID=America/Sao_Paulo:20240202T090000
+END:VEVENT
+END:VCALENDAR

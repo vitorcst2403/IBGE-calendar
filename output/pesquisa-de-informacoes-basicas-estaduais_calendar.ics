@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+SUMMARY:Pesquisa de Informações Básicas Estaduais: Perfil dos Estados Brasileiros 2023
+DESCRIPTION:Edições #Estadic1
+DTSTART;TZID=America/Sao_Paulo:20241031T090000
+DTEND;TZID=America/Sao_Paulo:20241031T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa de Informações Básicas Estaduais: Perfil dos Estados Brasileiros 2021
+DESCRIPTION:Edições #Estadic1
+DTSTART;TZID=America/Sao_Paulo:20221208T090000
+DTEND;TZID=America/Sao_Paulo:20221208T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa de Informações Básicas Estaduais: Perfil dos Estados Brasileiros 
+DESCRIPTION:Edições #Estadic1
+DTSTART;TZID=America/Sao_Paulo:20211110T090000
+DTEND;TZID=America/Sao_Paulo:20211110T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa de Informações Básicas Estaduais: Perfil dos Estados Brasileiros 
+DESCRIPTION:Edições #Estadic1
+DTSTART;TZID=America/Sao_Paulo:20201202T090000
+DTEND;TZID=America/Sao_Paulo:20201202T090000
+END:VEVENT
+END:VCALENDAR

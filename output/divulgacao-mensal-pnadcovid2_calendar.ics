@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+SUMMARY:Pesquisa Nacional por Amostra de Domicílios - PNAD COVID19 - Divulgação mensal
+DESCRIPTION:Divulgação mensal#pnadcovid2
+DTSTART;TZID=America/Sao_Paulo:20201223T090000
+DTEND;TZID=America/Sao_Paulo:20201223T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa Nacional por Amostra de Domicílios - PNAD COVID19 - Divulgação mensal
+DESCRIPTION:Divulgação mensal#pnadcovid2
+DTSTART;TZID=America/Sao_Paulo:20201201T090000
+DTEND;TZID=America/Sao_Paulo:20201201T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa Nacional por Amostra de Domicílios - PNAD COVID19 - Divulgação mensal
+DESCRIPTION:Divulgação mensal#pnadcovid2
+DTSTART;TZID=America/Sao_Paulo:20201023T090000
+DTEND;TZID=America/Sao_Paulo:20201023T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa Nacional por Amostra de Domicílios - PNAD COVID19 - Divulgação mensal
+DESCRIPTION:Divulgação mensal#pnadcovid2
+DTSTART;TZID=America/Sao_Paulo:20200923T090000
+DTEND;TZID=America/Sao_Paulo:20200923T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa Nacional por Amostra de Domicílios - PNAD COVID19 - Divulgação mensal
+DESCRIPTION:Divulgação mensal#pnadcovid2
+DTSTART;TZID=America/Sao_Paulo:20200820T090000
+DTEND;TZID=America/Sao_Paulo:20200820T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa Nacional por Amostra de Domicílios - PNAD COVID19 - Divulgação mensal
+DESCRIPTION:Divulgação mensal#pnadcovid2
+DTSTART;TZID=America/Sao_Paulo:20200723T090000
+DTEND;TZID=America/Sao_Paulo:20200723T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa Nacional por Amostra de Domicílios - PNAD COVID19 - Divulgação mensal
+DESCRIPTION:Divulgação mensal#pnadcovid2
+DTSTART;TZID=America/Sao_Paulo:20200624T090000
+DTEND;TZID=America/Sao_Paulo:20200624T090000
+END:VEVENT
+END:VCALENDAR

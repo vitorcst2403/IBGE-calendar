@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+SUMMARY:Pesquisa Pulso Empresa: Impacto da Covid-19 nas empresas
+DESCRIPTION:Pesquisa Pulso Empresa: Impacto da Covid-19 nas empresas
+DTSTART;TZID=America/Sao_Paulo:20201001T090000
+DTEND;TZID=America/Sao_Paulo:20201001T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa Pulso Empresa: Impacto da Covid-19 nas empresas
+DESCRIPTION:Pesquisa Pulso Empresa: Impacto da Covid-19 nas empresas
+DTSTART;TZID=America/Sao_Paulo:20200915T090000
+DTEND;TZID=America/Sao_Paulo:20200915T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa Pulso Empresa: Impacto da Covid-19 nas empresas
+DESCRIPTION:Pesquisa Pulso Empresa: Impacto da Covid-19 nas empresas
+DTSTART;TZID=America/Sao_Paulo:20200902T090000
+DTEND;TZID=America/Sao_Paulo:20200902T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa Pulso Empresa: Impacto da Covid-19 nas empresas
+DESCRIPTION:Pesquisa Pulso Empresa: Impacto da Covid-19 nas empresas
+DTSTART;TZID=America/Sao_Paulo:20200818T090000
+DTEND;TZID=America/Sao_Paulo:20200818T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa Pulso Empresa: Impacto da Covid-19 nas empresas
+DESCRIPTION:Pesquisa Pulso Empresa: Impacto da Covid-19 nas empresas
+DTSTART;TZID=America/Sao_Paulo:20200730T090000
+DTEND;TZID=America/Sao_Paulo:20200730T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa Pulso Empresa: Impacto da Covid-19 nas empresas
+DESCRIPTION:Pesquisa Pulso Empresa: Impacto da Covid-19 nas empresas
+DTSTART;TZID=America/Sao_Paulo:20200716T090000
+DTEND;TZID=America/Sao_Paulo:20200716T090000
+END:VEVENT
+END:VCALENDAR

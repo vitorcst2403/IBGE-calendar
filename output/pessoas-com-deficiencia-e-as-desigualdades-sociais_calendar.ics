@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+SUMMARY:Pessoas com Deficiência e as Desigualdades Sociais no Brasil
+DESCRIPTION:Pessoas com Deficiência e as Desigualdades Sociais no Brasil
+DTSTART;TZID=America/Sao_Paulo:20220921T090000
+DTEND;TZID=America/Sao_Paulo:20220921T090000
+END:VEVENT
+END:VCALENDAR

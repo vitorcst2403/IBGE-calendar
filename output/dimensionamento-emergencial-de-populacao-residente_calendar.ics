@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+SUMMARY:Dimensionamento emergencial de população residente em áreas indígenas e quilombolas para ações de enfrentamento à pandemia provocada pelo coronavírus
+DESCRIPTION:Dimensionamento emergencial de população residente em áreas indígenas e quilombolas para ações de enfrentamento à pandemia provocada pelo coronavírus
+DTSTART;TZID=America/Sao_Paulo:20211015T090000
+DTEND;TZID=America/Sao_Paulo:20211015T090000
+END:VEVENT
+END:VCALENDAR

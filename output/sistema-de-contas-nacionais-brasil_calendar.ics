@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+SUMMARY:Sistema de Contas Nacionais: Brasil
+DESCRIPTION:Sistema de Contas Nacionais: Brasil
+DTSTART;TZID=America/Sao_Paulo:20241106T090000
+DTEND;TZID=America/Sao_Paulo:20241106T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sistema de Contas Nacionais: Brasil
+DESCRIPTION:Sistema de Contas Nacionais: Brasil
+DTSTART;TZID=America/Sao_Paulo:20231108T090000
+DTEND;TZID=America/Sao_Paulo:20231108T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sistema de Contas Nacionais: Brasil
+DESCRIPTION:Sistema de Contas Nacionais: Brasil
+DTSTART;TZID=America/Sao_Paulo:20221104T090000
+DTEND;TZID=America/Sao_Paulo:20221104T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sistema de Contas Nacionais: Brasil
+DESCRIPTION:Sistema de Contas Nacionais: Brasil
+DTSTART;TZID=America/Sao_Paulo:20211105T090000
+DTEND;TZID=America/Sao_Paulo:20211105T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sistema de Contas Nacionais - Brasil
+DESCRIPTION:Sistema de Contas Nacionais: Brasil
+DTSTART;TZID=America/Sao_Paulo:20201106T090000
+DTEND;TZID=America/Sao_Paulo:20201106T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sistema de Contas Nacionais 2017: Brasil
+DESCRIPTION:Sistema de Contas Nacionais: Brasil
+DTSTART;TZID=America/Sao_Paulo:20191108T090000
+DTEND;TZID=America/Sao_Paulo:20191108T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sistema de Contas Nacionais: Brasil
+DESCRIPTION:Sistema de Contas Nacionais: Brasil
+DTSTART;TZID=America/Sao_Paulo:20181109T090000
+DTEND;TZID=America/Sao_Paulo:20181109T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sistema de Contas Nacionais - Brasil 2015
+DESCRIPTION:Sistema de Contas Nacionais: Brasil
+DTSTART;TZID=America/Sao_Paulo:20171109T090000
+DTEND;TZID=America/Sao_Paulo:20171109T090000
+END:VEVENT
+END:VCALENDAR

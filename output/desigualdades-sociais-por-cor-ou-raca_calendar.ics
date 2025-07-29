@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+SUMMARY:Desigualdades Sociais por Cor ou Raça no Brasil - 2ª edição
+DESCRIPTION:Desigualdades Sociais por Cor ou Raça no Brasil
+DTSTART;TZID=America/Sao_Paulo:20221111T090000
+DTEND;TZID=America/Sao_Paulo:20221111T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Desigualdades Sociais por Cor ou Raça no Brasil
+DESCRIPTION:Desigualdades Sociais por Cor ou Raça no Brasil
+DTSTART;TZID=America/Sao_Paulo:20191113T090000
+DTEND;TZID=America/Sao_Paulo:20191113T090000
+END:VEVENT
+END:VCALENDAR

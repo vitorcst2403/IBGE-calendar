@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+SUMMARY:Tábuas Completas de Mortalidade para o Brasil 2023
+DESCRIPTION:Tábuas Completas de Mortalidade
+DTSTART;TZID=America/Sao_Paulo:20241129T090000
+DTEND;TZID=America/Sao_Paulo:20241129T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tábuas Completas de Mortalidade para o Brasil 2022
+DESCRIPTION:Tábuas Completas de Mortalidade
+DTSTART;TZID=America/Sao_Paulo:20231129T090000
+DTEND;TZID=America/Sao_Paulo:20231129T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tábuas Completas de Mortalidade para o Brasil 2021
+DESCRIPTION:Tábuas Completas de Mortalidade
+DTSTART;TZID=America/Sao_Paulo:20221125T090000
+DTEND;TZID=America/Sao_Paulo:20221125T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tábuas Completas de Mortalidade no Brasil
+DESCRIPTION:Tábuas Completas de Mortalidade
+DTSTART;TZID=America/Sao_Paulo:20211125T090000
+DTEND;TZID=America/Sao_Paulo:20211125T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tábua Completa de Mortalidade para o Brasil
+DESCRIPTION:Tábuas Completas de Mortalidade
+DTSTART;TZID=America/Sao_Paulo:20201126T090000
+DTEND;TZID=America/Sao_Paulo:20201126T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tábua Completa de Mortalidade para o Brasil
+DESCRIPTION:Tábuas Completas de Mortalidade
+DTSTART;TZID=America/Sao_Paulo:20191128T090000
+DTEND;TZID=America/Sao_Paulo:20191128T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sistema de Contas Regionais: Brasil
+DESCRIPTION:Tábuas Completas de Mortalidade
+DTSTART;TZID=America/Sao_Paulo:20191114T090000
+DTEND;TZID=America/Sao_Paulo:20191114T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tábua Completa de Mortalidade para o Brasil
+DESCRIPTION:Tábuas Completas de Mortalidade
+DTSTART;TZID=America/Sao_Paulo:20171201T090000
+DTEND;TZID=America/Sao_Paulo:20171201T090000
+END:VEVENT
+END:VCALENDAR

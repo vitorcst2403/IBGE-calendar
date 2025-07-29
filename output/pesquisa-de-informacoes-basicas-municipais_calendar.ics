@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+SUMMARY:Pesquisa de Informações Básicas Municipais: Suplemento de saneamento 2023: Limpeza urbana e manejo de resíduos sólidos e drenagem e manejo de águas pluviais
+DESCRIPTION:Edições #Munic1
+DTSTART;TZID=America/Sao_Paulo:20241128T090000
+DTEND;TZID=America/Sao_Paulo:20241128T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa de Informações Básicas Municipais: Perfil dos Municípios Brasileiros 2023
+DESCRIPTION:Edições #Munic1
+DTSTART;TZID=America/Sao_Paulo:20241031T090000
+DTEND;TZID=America/Sao_Paulo:20241031T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa de Informações Básicas Municipais: Perfil dos Municípios Brasileiros 2021
+DESCRIPTION:Edições #Munic1
+DTSTART;TZID=America/Sao_Paulo:20221208T090000
+DTEND;TZID=America/Sao_Paulo:20221208T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa de Informações Básicas Municipais: Perfil dos Municípios Brasileiros 
+DESCRIPTION:Edições #Munic1
+DTSTART;TZID=America/Sao_Paulo:20211110T090000
+DTEND;TZID=America/Sao_Paulo:20211110T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa de Informações Básicas Municipais: Perfil dos Municípios Brasileiros 
+DESCRIPTION:Edições #Munic1
+DTSTART;TZID=America/Sao_Paulo:20201202T090000
+DTEND;TZID=America/Sao_Paulo:20201202T090000
+END:VEVENT
+END:VCALENDAR

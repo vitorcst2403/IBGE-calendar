@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+SUMMARY:Estatísticas de gênero Indicadores sociais das mulheres no Brasil 3ª edição
+DESCRIPTION:Estatísticas de Gênero - Indicadores sociais das mulheres no Brasil
+DTSTART;TZID=America/Sao_Paulo:20240308T090000
+DTEND;TZID=America/Sao_Paulo:20240308T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Estatísticas de gênero Indicadores sociais das mulheres no Brasil 2ª edição
+DESCRIPTION:Estatísticas de Gênero - Indicadores sociais das mulheres no Brasil
+DTSTART;TZID=America/Sao_Paulo:20210304T090000
+DTEND;TZID=America/Sao_Paulo:20210304T090000
+END:VEVENT
+END:VCALENDAR

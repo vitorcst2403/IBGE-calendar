@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+SUMMARY:Sistema de Informações e Indicadores Culturais 2011-2022
+DESCRIPTION:Sistema de Informações e Indicadores Culturais
+DTSTART;TZID=America/Sao_Paulo:20231201T090000
+DTEND;TZID=America/Sao_Paulo:20231201T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sistema de Informações e Indicadores Culturais 2009-2020
+DESCRIPTION:Sistema de Informações e Indicadores Culturais
+DTSTART;TZID=America/Sao_Paulo:20211208T090000
+DTEND;TZID=America/Sao_Paulo:20211208T090000
+END:VEVENT
+END:VCALENDAR

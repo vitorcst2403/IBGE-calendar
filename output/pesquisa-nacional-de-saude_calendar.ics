@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+SUMMARY:Pesquisa Nacional de Saúde 2019: Ciclos de vida
+DESCRIPTION:2019#Pesquisa Nacional de Saúde
+DTSTART;TZID=America/Sao_Paulo:20210826T090000
+DTEND;TZID=America/Sao_Paulo:20210826T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa Nacional de Saúde 2019: Acidentes, violências, doenças transmissíveis, atividade sexual, características do trabalho e apoio social
+DESCRIPTION:2019#Pesquisa Nacional de Saúde
+DTSTART;TZID=America/Sao_Paulo:20210507T090000
+DTEND;TZID=America/Sao_Paulo:20210507T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa Nacional de Saúde - Percepção do estado de saúde, estilos de vida, doenças crônicas e saúde bucal - Brasil e Grandes Regiões
+DESCRIPTION:2019#Pesquisa Nacional de Saúde
+DTSTART;TZID=America/Sao_Paulo:20201118T090000
+DTEND;TZID=America/Sao_Paulo:20201118T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa Nacional de Saúde 2019: Atenção primária à saúde e informações antropométricas Brasil
+DESCRIPTION:2019#Pesquisa Nacional de Saúde
+DTSTART;TZID=America/Sao_Paulo:20201021T090000
+DTEND;TZID=America/Sao_Paulo:20201021T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa Nacional de Saúde - Informações sobre domicílios e acesso e utilização dos serviços de saúde
+DESCRIPTION:2019#Pesquisa Nacional de Saúde
+DTSTART;TZID=America/Sao_Paulo:20200904T090000
+DTEND;TZID=America/Sao_Paulo:20200904T090000
+END:VEVENT
+END:VCALENDAR

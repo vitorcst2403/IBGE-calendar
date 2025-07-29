@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+SUMMARY:Síntese de Indicadores Sociais: Uma análise das condições de vida da população brasileira 2024
+DESCRIPTION:Síntese de Indicadores Sociais
+DTSTART;TZID=America/Sao_Paulo:20241204T090000
+DTEND;TZID=America/Sao_Paulo:20241204T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Síntese de Indicadores Sociais: Uma análise das condições de vida da população brasileira 2023
+DESCRIPTION:Síntese de Indicadores Sociais
+DTSTART;TZID=America/Sao_Paulo:20231206T090000
+DTEND;TZID=America/Sao_Paulo:20231206T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Síntese de Indicadores Sociais: Uma análise das condições de vida da população brasileira 2022
+DESCRIPTION:Síntese de Indicadores Sociais
+DTSTART;TZID=America/Sao_Paulo:20221202T090000
+DTEND;TZID=America/Sao_Paulo:20221202T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Síntese de indicadores sociais: Uma análise das condições de vida da população brasileira 2021
+DESCRIPTION:Síntese de Indicadores Sociais
+DTSTART;TZID=America/Sao_Paulo:20211203T090000
+DTEND;TZID=America/Sao_Paulo:20211203T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indicadores Sociais de Moradia no Contexto da Pré-Pandemia de    COVID-19 2019
+DESCRIPTION:Síntese de Indicadores Sociais
+DTSTART;TZID=America/Sao_Paulo:20210623T090000
+DTEND;TZID=America/Sao_Paulo:20210623T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Síntese de Indicadores Sociais - uma análise das condições de vida da população brasileira
+DESCRIPTION:Síntese de Indicadores Sociais
+DTSTART;TZID=America/Sao_Paulo:20201112T090000
+DTEND;TZID=America/Sao_Paulo:20201112T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Síntese de Indicadores Sociais: Uma análise das condições de vida da população brasileira
+DESCRIPTION:Síntese de Indicadores Sociais
+DTSTART;TZID=America/Sao_Paulo:20191106T090000
+DTEND;TZID=America/Sao_Paulo:20191106T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Síntese de Indicadores Sociais: Uma análise das condições de vida da população brasileira
+DESCRIPTION:Síntese de Indicadores Sociais
+DTSTART;TZID=America/Sao_Paulo:20171215T090000
+DTEND;TZID=America/Sao_Paulo:20171215T090000
+END:VEVENT
+END:VCALENDAR

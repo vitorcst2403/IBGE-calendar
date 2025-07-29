@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+SUMMARY:Projeções da População: Brasil e Unidades da Federação: Estimativas e Projeções: Revisão 2024
+DESCRIPTION:Projeções da População
+DTSTART;TZID=America/Sao_Paulo:20240822T090000
+DTEND;TZID=America/Sao_Paulo:20240822T090000
+END:VEVENT
+END:VCALENDAR

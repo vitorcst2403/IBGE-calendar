@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+SUMMARY:Pesquisa Anual da Indústria da Construção
+DESCRIPTION:Pesquisa Anual da Indústria da Construção
+DTSTART;TZID=America/Sao_Paulo:20250522T090000
+DTEND;TZID=America/Sao_Paulo:20250522T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa Anual da Indústria da Construção
+DESCRIPTION:Pesquisa Anual da Indústria da Construção
+DTSTART;TZID=America/Sao_Paulo:20240529T090000
+DTEND;TZID=America/Sao_Paulo:20240529T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa Anual da Indústria da Construção
+DESCRIPTION:Pesquisa Anual da Indústria da Construção
+DTSTART;TZID=America/Sao_Paulo:20230525T090000
+DTEND;TZID=America/Sao_Paulo:20230525T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa Anual da Indústria da Construção
+DESCRIPTION:Pesquisa Anual da Indústria da Construção
+DTSTART;TZID=America/Sao_Paulo:20220615T090000
+DTEND;TZID=America/Sao_Paulo:20220615T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa Anual da Indústria da Construção
+DESCRIPTION:Pesquisa Anual da Indústria da Construção
+DTSTART;TZID=America/Sao_Paulo:20210617T090000
+DTEND;TZID=America/Sao_Paulo:20210617T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa Anual da Indústria da Construção
+DESCRIPTION:Pesquisa Anual da Indústria da Construção
+DTSTART;TZID=America/Sao_Paulo:20210617T090000
+DTEND;TZID=America/Sao_Paulo:20210617T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa Anual da Indústria da Construção
+DESCRIPTION:Pesquisa Anual da Indústria da Construção
+DTSTART;TZID=America/Sao_Paulo:20200527T090000
+DTEND;TZID=America/Sao_Paulo:20200527T090000
+END:VEVENT
+END:VCALENDAR

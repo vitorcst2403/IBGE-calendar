@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+SUMMARY:Estimativas de Sub-Registro de Nascimentos e Óbitos 2023
+DESCRIPTION:Estimativas de Sub-Registro de Nascimentos e Óbitos#Vitais2
+DTSTART;TZID=America/Sao_Paulo:20250516T090000
+DTEND;TZID=America/Sao_Paulo:20250516T090000
+END:VEVENT
+END:VCALENDAR

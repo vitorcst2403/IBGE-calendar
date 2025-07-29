@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+SUMMARY:Estatísticas de Finanças Públicas e Conta Intermediária de Governo: Brasil
+DESCRIPTION:Edições#estatisticasdefinançaspublicas1
+DTSTART;TZID=America/Sao_Paulo:20241127T090000
+DTEND;TZID=America/Sao_Paulo:20241127T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Estatísticas de Finanças Públicas e Conta Intermediária de Governo: Brasil
+DESCRIPTION:Edições#estatisticasdefinançaspublicas1
+DTSTART;TZID=America/Sao_Paulo:20231124T090000
+DTEND;TZID=America/Sao_Paulo:20231124T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Estatísticas de Finanças Públicas e Conta Intermediária de Governo: Brasil
+DESCRIPTION:Edições#estatisticasdefinançaspublicas1
+DTSTART;TZID=America/Sao_Paulo:20221123T090000
+DTEND;TZID=America/Sao_Paulo:20221123T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Estatísticas de Finanças Públicas e Conta Intermediária de Governo: Brasil
+DESCRIPTION:Edições#estatisticasdefinançaspublicas1
+DTSTART;TZID=America/Sao_Paulo:20211119T090000
+DTEND;TZID=America/Sao_Paulo:20211119T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Estatísticas de Finanças Públicas e Conta Intermediária de Governo - Brasil
+DESCRIPTION:Edições#estatisticasdefinançaspublicas1
+DTSTART;TZID=America/Sao_Paulo:20201023T090000
+DTEND;TZID=America/Sao_Paulo:20201023T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Estatísticas de Finanças Públicas e Conta Intermediária de Governo: Brasil
+DESCRIPTION:Edições#estatisticasdefinançaspublicas1
+DTSTART;TZID=America/Sao_Paulo:20191219T090000
+DTEND;TZID=America/Sao_Paulo:20191219T090000
+END:VEVENT
+END:VCALENDAR

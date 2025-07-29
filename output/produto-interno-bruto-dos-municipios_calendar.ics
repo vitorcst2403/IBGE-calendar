@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+SUMMARY:Produto Interno Bruto dos Municípios
+DESCRIPTION:Produto Interno Bruto dos Municípios
+DTSTART;TZID=America/Sao_Paulo:20231215T090000
+DTEND;TZID=America/Sao_Paulo:20231215T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Produto Interno Bruto dos Municípios
+DESCRIPTION:Produto Interno Bruto dos Municípios
+DTSTART;TZID=America/Sao_Paulo:20221216T090000
+DTEND;TZID=America/Sao_Paulo:20221216T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Produto Interno Bruto dos Municípios
+DESCRIPTION:Produto Interno Bruto dos Municípios
+DTSTART;TZID=America/Sao_Paulo:20211217T090000
+DTEND;TZID=America/Sao_Paulo:20211217T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Produto Interno Bruto dos Municípios
+DESCRIPTION:Produto Interno Bruto dos Municípios
+DTSTART;TZID=America/Sao_Paulo:20201216T090000
+DTEND;TZID=America/Sao_Paulo:20201216T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Produto Interno Bruto dos Municípios
+DESCRIPTION:Produto Interno Bruto dos Municípios
+DTSTART;TZID=America/Sao_Paulo:20191213T090000
+DTEND;TZID=America/Sao_Paulo:20191213T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Produto Interno Bruto dos Municípios
+DESCRIPTION:Produto Interno Bruto dos Municípios
+DTSTART;TZID=America/Sao_Paulo:20171214T090000
+DTEND;TZID=America/Sao_Paulo:20171214T090000
+END:VEVENT
+END:VCALENDAR

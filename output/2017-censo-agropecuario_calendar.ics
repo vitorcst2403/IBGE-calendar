@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+SUMMARY:Censo Agropecuário 2017 - Características gerais das produções agropecuária e extrativista, segundo a cor ou raça do produtor e recortes territoriais específicos 
+DESCRIPTION:2017#2017 censo agropecuário
+DTSTART;TZID=America/Sao_Paulo:20221214T090000
+DTEND;TZID=America/Sao_Paulo:20221214T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Censo Agropecuário 2017 - Resultados Definitivos
+DESCRIPTION:2017#2017 censo agropecuário
+DTSTART;TZID=America/Sao_Paulo:20191025T090000
+DTEND;TZID=America/Sao_Paulo:20191025T090000
+END:VEVENT
+END:VCALENDAR

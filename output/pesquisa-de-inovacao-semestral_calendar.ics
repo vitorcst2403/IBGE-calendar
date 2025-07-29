@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+SUMMARY:Pesquisa de Inovação Semestral 2023: Indicadores básicos
+DESCRIPTION:Pesquisa de Inovação Semestral
+DTSTART;TZID=America/Sao_Paulo:20250320T090000
+DTEND;TZID=America/Sao_Paulo:20250320T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa de Inovação Semestral 2023: Indicadores temáticos - Práticas ambientais e biotecnologia
+DESCRIPTION:Pesquisa de Inovação Semestral
+DTSTART;TZID=America/Sao_Paulo:20240918T090000
+DTEND;TZID=America/Sao_Paulo:20240918T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa de Inovação Semestral 2022: Indicadores básicos
+DESCRIPTION:Pesquisa de Inovação Semestral
+DTSTART;TZID=America/Sao_Paulo:20240320T090000
+DTEND;TZID=America/Sao_Paulo:20240320T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa de Inovação Semestral 2022 : Indicadores temáticos
+DESCRIPTION:Pesquisa de Inovação Semestral
+DTSTART;TZID=America/Sao_Paulo:20230928T090000
+DTEND;TZID=America/Sao_Paulo:20230928T090000
+END:VEVENT
+END:VCALENDAR

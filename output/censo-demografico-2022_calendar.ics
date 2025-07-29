@@ -1,0 +1,178 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+SUMMARY:Censo Demográfico 2022: Unidades de Conservação: Principais características das pessoas residentes e dos domicílios, por recortes territoriais e grupos populacionais específicos: Resultados do universo
+DESCRIPTION:Censo 2022#3
+DTSTART;TZID=America/Sao_Paulo:20250711T090000
+DTEND;TZID=America/Sao_Paulo:20250711T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Censo Demográfico 2022: Fecundidade e migração: Resultados preliminares da amostra
+DESCRIPTION:Censo 2022#3
+DTSTART;TZID=America/Sao_Paulo:20250627T090000
+DTEND;TZID=America/Sao_Paulo:20250627T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Censo Demográfico 2022: Religiões: Resultados preliminares da amostra
+DESCRIPTION:Censo 2022#3
+DTSTART;TZID=America/Sao_Paulo:20250606T090000
+DTEND;TZID=America/Sao_Paulo:20250606T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Censo Demográfico 2022: Pessoas com deficiência e Pessoas diagnosticadas com transtorno do espectro autista: Resultados preliminares da amostra
+DESCRIPTION:Censo 2022#3
+DTSTART;TZID=America/Sao_Paulo:20250523T090000
+DTEND;TZID=America/Sao_Paulo:20250523T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Censo Demográfico 2022: Quilombolas: Principais características das pessoas e dos domicílios, por situação urbana ou rural do domicílio: Resultados do Universo
+DESCRIPTION:Censo 2022#3
+DTSTART;TZID=America/Sao_Paulo:20250509T090000
+DTEND;TZID=America/Sao_Paulo:20250509T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Censo Demográfico 2022: Rendimento do responsável pelo domicílio: Resultado do Universo
+DESCRIPTION:Censo 2022#3
+DTSTART;TZID=America/Sao_Paulo:20250430T090000
+DTEND;TZID=America/Sao_Paulo:20250430T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Censo Demográfico 2022: Características Urbanísticas do Entorno dos Domicílios
+DESCRIPTION:Censo 2022#3
+DTSTART;TZID=America/Sao_Paulo:20250417T090000
+DTEND;TZID=America/Sao_Paulo:20250417T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Censo Demográfico 2022: Educação: Resultados preliminares da amostra
+DESCRIPTION:Censo 2022#3
+DTSTART;TZID=America/Sao_Paulo:20250226T090000
+DTEND;TZID=America/Sao_Paulo:20250226T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Censo Demográfico 2022: Indígenas: Principais características das pessoas e dos domicílios, por situação urbana ou rural do domicílio: Resultados do universo
+DESCRIPTION:Censo 2022#3
+DTSTART;TZID=America/Sao_Paulo:20241219T090000
+DTEND;TZID=America/Sao_Paulo:20241219T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Censo Demográfico 2022: Localidades indígenas
+DESCRIPTION:Censo 2022#3
+DTSTART;TZID=America/Sao_Paulo:20241219T090000
+DTEND;TZID=America/Sao_Paulo:20241219T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Censo Demográfico 2022: Características dos Domicílios: Resultados preliminares da amostra
+DESCRIPTION:Censo 2022#3
+DTSTART;TZID=America/Sao_Paulo:20241212T090000
+DTEND;TZID=America/Sao_Paulo:20241212T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Censo Demográfico 2022: Agregados por Setores Censitários: Resultados do universo
+DESCRIPTION:Censo 2022#3
+DTSTART;TZID=America/Sao_Paulo:20241114T090000
+DTEND;TZID=America/Sao_Paulo:20241114T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Censo Demográfico 2022: Malha de Setores Censitários
+DESCRIPTION:Censo 2022#3
+DTSTART;TZID=America/Sao_Paulo:20241114T090000
+DTEND;TZID=America/Sao_Paulo:20241114T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Censo Demográfico 2022: Trajetos dos Recenseadores
+DESCRIPTION:Censo 2022#3
+DTSTART;TZID=America/Sao_Paulo:20241114T090000
+DTEND;TZID=America/Sao_Paulo:20241114T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Censo Demográfico 2022: Favelas e Comunidades Urbanas: Resultados do universo
+DESCRIPTION:Censo 2022#3
+DTSTART;TZID=America/Sao_Paulo:20241108T090000
+DTEND;TZID=America/Sao_Paulo:20241108T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Censo Demográfico 2022: Composição domiciliar e óbitos informados: Resultados do universo
+DESCRIPTION:Censo 2022#3
+DTSTART;TZID=America/Sao_Paulo:20241025T090000
+DTEND;TZID=America/Sao_Paulo:20241025T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Censo Demográfico 2022: Indígenas: Alfabetização, registros de nascimentos e características dos domicílios, segundo recortes territoriais específicos: Resultados do universo
+DESCRIPTION:Censo 2022#3
+DTSTART;TZID=America/Sao_Paulo:20241004T090000
+DTEND;TZID=America/Sao_Paulo:20241004T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Censo Demográfico 2022: Tipos de domicílios coletivos, improvisados, de uso ocasional e vagos: Resultados do universo
+DESCRIPTION:Censo 2022#3
+DTSTART;TZID=America/Sao_Paulo:20240906T090000
+DTEND;TZID=America/Sao_Paulo:20240906T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Censo Demográfico 2022: Registros de nascimentos: Resultados do universo
+DESCRIPTION:Censo 2022#3
+DTSTART;TZID=America/Sao_Paulo:20240808T090000
+DTEND;TZID=America/Sao_Paulo:20240808T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Censo Demográfico 2022: Quilombolas: Alfabetização e características dos domicílios, segundo recortes territoriais específicos: Resultados do Universo
+DESCRIPTION:Censo 2022#3
+DTSTART;TZID=America/Sao_Paulo:20240719T090000
+DTEND;TZID=America/Sao_Paulo:20240719T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Censo Demográfico 2022: Alfabetização: Resultados do universo
+DESCRIPTION:Censo 2022#3
+DTSTART;TZID=America/Sao_Paulo:20240517T090000
+DTEND;TZID=America/Sao_Paulo:20240517T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Censo Demográfico 2022: Quilombolas e Indígenas, por sexo e idade, segundo recortes territoriais específicos: Resultados do universo
+DESCRIPTION:Censo 2022#3
+DTSTART;TZID=America/Sao_Paulo:20240503T090000
+DTEND;TZID=America/Sao_Paulo:20240503T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Censo Demográfico 2022: Agregados por Setores Censitários preliminares: População e domicílios
+DESCRIPTION:Censo 2022#3
+DTSTART;TZID=America/Sao_Paulo:20240321T090000
+DTEND;TZID=America/Sao_Paulo:20240321T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Censo Demográfico 2022: Características dos domicílios - Resultados do universo
+DESCRIPTION:Censo 2022#3
+DTSTART;TZID=America/Sao_Paulo:20240223T090000
+DTEND;TZID=America/Sao_Paulo:20240223T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Censo Demográfico 2022: Identificação étnico-racial da população, por sexo e idade: Resultados do universo
+DESCRIPTION:Censo 2022#3
+DTSTART;TZID=America/Sao_Paulo:20231222T090000
+DTEND;TZID=America/Sao_Paulo:20231222T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Censo Demográfico 2022: População por idade e sexo - Resultados do universo
+DESCRIPTION:Censo 2022#3
+DTSTART;TZID=America/Sao_Paulo:20231027T090000
+DTEND;TZID=America/Sao_Paulo:20231027T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Censo Demográfico 2022: Indígenas: Primeiros resultados do universo
+DESCRIPTION:Censo 2022#3
+DTSTART;TZID=America/Sao_Paulo:20230807T090000
+DTEND;TZID=America/Sao_Paulo:20230807T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Censo Demográfico 2022: Quilombolas: Primeiros resultados do universo
+DESCRIPTION:Censo 2022#3
+DTSTART;TZID=America/Sao_Paulo:20230727T090000
+DTEND;TZID=America/Sao_Paulo:20230727T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Censo Demográfico 2022: População e domicílios | Primeiros resultados
+DESCRIPTION:Censo 2022#3
+DTSTART;TZID=America/Sao_Paulo:20230628T090000
+DTEND;TZID=America/Sao_Paulo:20230628T090000
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+SUMMARY:Estimativas da População: Estimativas da população residente para os Municípios e para as Unidades da Federação brasileiros, com data de referência em 1º de julho de 2024
+DESCRIPTION:Estimativas da população residente para os municípios e para as unidades da federação
+DTSTART;TZID=America/Sao_Paulo:20240829T090000
+DTEND;TZID=America/Sao_Paulo:20240829T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Estimativas da População
+DESCRIPTION:Estimativas da população residente para os municípios e para as unidades da federação
+DTSTART;TZID=America/Sao_Paulo:20210827T090000
+DTEND;TZID=America/Sao_Paulo:20210827T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Estimativas da População
+DESCRIPTION:Estimativas da população residente para os municípios e para as unidades da federação
+DTSTART;TZID=America/Sao_Paulo:20200827T090000
+DTEND;TZID=America/Sao_Paulo:20200827T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Estimativas de População
+DESCRIPTION:Estimativas da população residente para os municípios e para as unidades da federação
+DTSTART;TZID=America/Sao_Paulo:20170830T090000
+DTEND;TZID=America/Sao_Paulo:20170830T090000
+END:VEVENT
+END:VCALENDAR

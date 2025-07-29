@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+SUMMARY:Demografia das Empresas e Estatísticas de Empreendedorismo
+DESCRIPTION:Demografia das Empresas e Estatísticas de Empreendedorismo
+DTSTART;TZID=America/Sao_Paulo:20191017T090000
+DTEND;TZID=America/Sao_Paulo:20191017T090000
+END:VEVENT
+END:VCALENDAR

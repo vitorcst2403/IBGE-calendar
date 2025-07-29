@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+SUMMARY:Pesquisa de Orçamentos Familiares 2017-2018: Perfil das Despesas no Brasil: Indicadores de qualidade de vida
+DESCRIPTION:POF 2017-2018 #POF
+DTSTART;TZID=America/Sao_Paulo:20211126T090000
+DTEND;TZID=America/Sao_Paulo:20211126T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa de Orçamentos Familiares 2017-2018: Perfil das Despesas no Brasil: Indicadores selecionados de alimentação, transporte, lazer e inclusão financeira
+DESCRIPTION:POF 2017-2018 #POF
+DTSTART;TZID=America/Sao_Paulo:20210819T090000
+DTEND;TZID=America/Sao_Paulo:20210819T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa de Orçamentos Familiares - POF 2017 - 2018 Perfil das despesas no Brasil: indicadores selecionados
+DESCRIPTION:POF 2017-2018 #POF
+DTSTART;TZID=America/Sao_Paulo:20201125T090000
+DTEND;TZID=America/Sao_Paulo:20201125T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa de Orçamentos Familiares: Análise da segurança alimentar no Brasil
+DESCRIPTION:POF 2017-2018 #POF
+DTSTART;TZID=America/Sao_Paulo:20200917T090000
+DTEND;TZID=America/Sao_Paulo:20200917T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa de Orçamentos Familiares: Análise do consumo alimentar pessoal no Brasil
+DESCRIPTION:POF 2017-2018 #POF
+DTSTART;TZID=America/Sao_Paulo:20200821T090000
+DTEND;TZID=America/Sao_Paulo:20200821T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa de Orçamentos Familiares: Avaliação Nutricional da Disponibilidade Domiciliar de Alimentos no Brasil
+DESCRIPTION:POF 2017-2018 #POF
+DTSTART;TZID=America/Sao_Paulo:20200403T090000
+DTEND;TZID=America/Sao_Paulo:20200403T090000
+END:VEVENT
+END:VCALENDAR

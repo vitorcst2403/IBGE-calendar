@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+SUMMARY:Estatísticas do Cadastro Central de Empresas
+DESCRIPTION:Estatísticas do Cadastro Central de Empresas - CEMPRE
+DTSTART;TZID=America/Sao_Paulo:20240620T090000
+DTEND;TZID=America/Sao_Paulo:20240620T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Estatísticas do Cadastro Central de Empresas
+DESCRIPTION:Estatísticas do Cadastro Central de Empresas - CEMPRE
+DTSTART;TZID=America/Sao_Paulo:20230621T090000
+DTEND;TZID=America/Sao_Paulo:20230621T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Estatísticas do Cadastro Central de Empresas
+DESCRIPTION:Estatísticas do Cadastro Central de Empresas - CEMPRE
+DTSTART;TZID=America/Sao_Paulo:20220623T090000
+DTEND;TZID=America/Sao_Paulo:20220623T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Estatísticas do Cadastro Central de Empresas
+DESCRIPTION:Estatísticas do Cadastro Central de Empresas - CEMPRE
+DTSTART;TZID=America/Sao_Paulo:20210624T090000
+DTEND;TZID=America/Sao_Paulo:20210624T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Estatísticas do Cadastro Central de Empresas
+DESCRIPTION:Estatísticas do Cadastro Central de Empresas - CEMPRE
+DTSTART;TZID=America/Sao_Paulo:20200625T090000
+DTEND;TZID=America/Sao_Paulo:20200625T090000
+END:VEVENT
+END:VCALENDAR

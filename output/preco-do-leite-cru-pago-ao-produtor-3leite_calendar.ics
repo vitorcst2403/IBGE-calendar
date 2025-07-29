@@ -1,0 +1,64 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+SUMMARY:Preço do leite cru pago ao produtor
+DESCRIPTION:Preço do leite cru pago ao produtor#3leite
+DTSTART;TZID=America/Sao_Paulo:20240606T090000
+DTEND;TZID=America/Sao_Paulo:20240606T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Preço do leite cru pago ao produtor
+DESCRIPTION:Preço do leite cru pago ao produtor#3leite
+DTSTART;TZID=America/Sao_Paulo:20240314T090000
+DTEND;TZID=America/Sao_Paulo:20240314T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Preço do leite cru pago ao produtor
+DESCRIPTION:Preço do leite cru pago ao produtor#3leite
+DTSTART;TZID=America/Sao_Paulo:20231207T090000
+DTEND;TZID=America/Sao_Paulo:20231207T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Preço do leite cru pago ao produtor
+DESCRIPTION:Preço do leite cru pago ao produtor#3leite
+DTSTART;TZID=America/Sao_Paulo:20230906T090000
+DTEND;TZID=America/Sao_Paulo:20230906T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Preço do leite cru pago ao produtor
+DESCRIPTION:Preço do leite cru pago ao produtor#3leite
+DTSTART;TZID=America/Sao_Paulo:20230606T090000
+DTEND;TZID=America/Sao_Paulo:20230606T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Preço do leite cru pago ao produtor
+DESCRIPTION:Preço do leite cru pago ao produtor#3leite
+DTSTART;TZID=America/Sao_Paulo:20230315T090000
+DTEND;TZID=America/Sao_Paulo:20230315T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Preço do leite cru pago ao produtor
+DESCRIPTION:Preço do leite cru pago ao produtor#3leite
+DTSTART;TZID=America/Sao_Paulo:20221207T090000
+DTEND;TZID=America/Sao_Paulo:20221207T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Preço do leite cru pago ao produtor
+DESCRIPTION:Preço do leite cru pago ao produtor#3leite
+DTSTART;TZID=America/Sao_Paulo:20220906T090000
+DTEND;TZID=America/Sao_Paulo:20220906T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Preço do leite cru pago ao produtor
+DESCRIPTION:Preço do leite cru pago ao produtor#3leite
+DTSTART;TZID=America/Sao_Paulo:20220608T090000
+DTEND;TZID=America/Sao_Paulo:20220608T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Preço do leite cru pago ao produtor
+DESCRIPTION:Preço do leite cru pago ao produtor#3leite
+DTSTART;TZID=America/Sao_Paulo:20220315T090000
+DTEND;TZID=America/Sao_Paulo:20220315T090000
+END:VEVENT
+END:VCALENDAR

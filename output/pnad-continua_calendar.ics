@@ -1,0 +1,256 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+SUMMARY:Pesquisa Nacional por Amostra de Domicílios Contínua: Acesso à Internet e à televisão e posse de telefone móvel celular para uso pessoal 2024
+DESCRIPTION:Divulgação anual#pnadc3
+DTSTART;TZID=America/Sao_Paulo:20250724T090000
+DTEND;TZID=America/Sao_Paulo:20250724T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa Nacional por Amostra de Domicílios Contínua: Educação 2024
+DESCRIPTION:Divulgação anual#pnadc3
+DTSTART;TZID=America/Sao_Paulo:20250613T090000
+DTEND;TZID=America/Sao_Paulo:20250613T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa Nacional por Amostra de Domicílios Contínua: Rendimento de todas as fontes 2024
+DESCRIPTION:Divulgação anual#pnadc3
+DTSTART;TZID=America/Sao_Paulo:20250508T090000
+DTEND;TZID=America/Sao_Paulo:20250508T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa Nacional por Amostra de Domicílios Contínua: Características Gerais dos Domicílios e dos Moradores 2023
+DESCRIPTION:Divulgação anual#pnadc3
+DTSTART;TZID=America/Sao_Paulo:20241220T090000
+DTEND;TZID=America/Sao_Paulo:20241220T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa Nacional por Amostra de Domicílios Contínua: Turismo 2023
+DESCRIPTION:Divulgação anual#pnadc3
+DTSTART;TZID=America/Sao_Paulo:20240913T090000
+DTEND;TZID=America/Sao_Paulo:20240913T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa Nacional por Amostra de Domicílios Contínua: Acesso à Internet e à televisão e posse de telefone móvel celular para uso pessoal 2023
+DESCRIPTION:Divulgação anual#pnadc3
+DTSTART;TZID=America/Sao_Paulo:20240816T090000
+DTEND;TZID=America/Sao_Paulo:20240816T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa Nacional por Amostra de Domicílios Contínua: Características Adicionais de Mercado de Trabalho 2023
+DESCRIPTION:Divulgação anual#pnadc3
+DTSTART;TZID=America/Sao_Paulo:20240621T090000
+DTEND;TZID=America/Sao_Paulo:20240621T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa Nacional por Amostra de Domicílios Contínua: COVID-19  2023
+DESCRIPTION:Divulgação anual#pnadc3
+DTSTART;TZID=America/Sao_Paulo:20240524T090000
+DTEND;TZID=America/Sao_Paulo:20240524T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa Nacional por Amostra de Domicílios Contínua: Segurança Alimentar 2023
+DESCRIPTION:Divulgação anual#pnadc3
+DTSTART;TZID=America/Sao_Paulo:20240425T090000
+DTEND;TZID=America/Sao_Paulo:20240425T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa Nacional por Amostra de Domicílios Contínua: Rendimento de todas as fontes 2023
+DESCRIPTION:Divulgação anual#pnadc3
+DTSTART;TZID=America/Sao_Paulo:20240419T090000
+DTEND;TZID=America/Sao_Paulo:20240419T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa Nacional por Amostra de Domicílios Contínua: Educação 2023
+DESCRIPTION:Divulgação anual#pnadc3
+DTSTART;TZID=America/Sao_Paulo:20240322T090000
+DTEND;TZID=America/Sao_Paulo:20240322T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa Nacional por Amostra de Domicílios Contínua: Acesso à Internet e à televisão e posse de telefone móvel celular para uso pessoal 2022
+DESCRIPTION:Divulgação anual#pnadc3
+DTSTART;TZID=America/Sao_Paulo:20231109T090000
+DTEND;TZID=America/Sao_Paulo:20231109T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa Nacional por Amostra de Domicílios Contínua: Características adicionais do mercado de Trabalho 2022
+DESCRIPTION:Divulgação anual#pnadc3
+DTSTART;TZID=America/Sao_Paulo:20230915T090000
+DTEND;TZID=America/Sao_Paulo:20230915T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa Nacional por Amostra de Domicílios Contínua: Outras formas de trabalho 2022
+DESCRIPTION:Divulgação anual#pnadc3
+DTSTART;TZID=America/Sao_Paulo:20230811T090000
+DTEND;TZID=America/Sao_Paulo:20230811T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa Nacional por Amostra de Domicílios Contínua: Pessoas com deficiência 2022
+DESCRIPTION:Divulgação anual#pnadc3
+DTSTART;TZID=America/Sao_Paulo:20230707T090000
+DTEND;TZID=America/Sao_Paulo:20230707T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa Nacional por Amostra de Domicílios Contínua: Características Gerais dos Domicílios e dos Moradores 2022
+DESCRIPTION:Divulgação anual#pnadc3
+DTSTART;TZID=America/Sao_Paulo:20230616T090000
+DTEND;TZID=America/Sao_Paulo:20230616T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa Nacional por Amostra de Domicílios Contínua: Educação 2022
+DESCRIPTION:Divulgação anual#pnadc3
+DTSTART;TZID=America/Sao_Paulo:20230607T090000
+DTEND;TZID=America/Sao_Paulo:20230607T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa Nacional por Amostra de Domicílios Contínua: Rendimento de todas as fontes 2022
+DESCRIPTION:Divulgação anual#pnadc3
+DTSTART;TZID=America/Sao_Paulo:20230511T090000
+DTEND;TZID=America/Sao_Paulo:20230511T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa Nacional por Amostra de Domicílios Contínua: Atenção primária à saúde 2022
+DESCRIPTION:Divulgação anual#pnadc3
+DTSTART;TZID=America/Sao_Paulo:20221221T090000
+DTEND;TZID=America/Sao_Paulo:20221221T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa Nacional por Amostra de Domicílios Contínua: Vitimização: Furtos e roubos 2021
+DESCRIPTION:Divulgação anual#pnadc3
+DTSTART;TZID=America/Sao_Paulo:20221207T090000
+DTEND;TZID=America/Sao_Paulo:20221207T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa Nacional por Amostra de Domicílios Contínua: Vitimização: Sensação de segurança 2021
+DESCRIPTION:Divulgação anual#pnadc3
+DTSTART;TZID=America/Sao_Paulo:20221207T090000
+DTEND;TZID=America/Sao_Paulo:20221207T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa Nacional por Amostra de Domicílios Contínua: Acesso à Internet e à televisão e posse de telefone móvel celular para uso pessoal
+DESCRIPTION:Divulgação anual#pnadc3
+DTSTART;TZID=America/Sao_Paulo:20220916T090000
+DTEND;TZID=America/Sao_Paulo:20220916T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa Nacional por Amostra de Domicílios Contínua: Características gerais dos moradores 2020-2021
+DESCRIPTION:Divulgação anual#pnadc3
+DTSTART;TZID=America/Sao_Paulo:20220722T090000
+DTEND;TZID=America/Sao_Paulo:20220722T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa Nacional por Amostra de Domicílios Contínua: Turismo 2020-2021
+DESCRIPTION:Divulgação anual#pnadc3
+DTSTART;TZID=America/Sao_Paulo:20220706T090000
+DTEND;TZID=America/Sao_Paulo:20220706T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa Nacional por Amostra de Domicílios Contínua: Rendimento de todas as fontes 2021
+DESCRIPTION:Divulgação anual#pnadc3
+DTSTART;TZID=America/Sao_Paulo:20220610T090000
+DTEND;TZID=America/Sao_Paulo:20220610T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa Nacional por Amostra de Domicílios Contínua: Rendimento de todas as fontes 2020
+DESCRIPTION:Divulgação anual#pnadc3
+DTSTART;TZID=America/Sao_Paulo:20211119T090000
+DTEND;TZID=America/Sao_Paulo:20211119T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa Nacional por Amostra de Domicílios Contínua: Acesso à Internet e à televisão e posse de telefone móvel celular para uso pessoal
+DESCRIPTION:Divulgação anual#pnadc3
+DTSTART;TZID=America/Sao_Paulo:20210414T090000
+DTEND;TZID=America/Sao_Paulo:20210414T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Renda domiciliar per capita
+DESCRIPTION:Divulgação anual#pnadc3
+DTSTART;TZID=America/Sao_Paulo:20210226T090000
+DTEND;TZID=America/Sao_Paulo:20210226T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa Nacional por Amostra de Domicílios Contínua: Trabalho de crianças e adolescentes de 5 a 17 anos de idade
+DESCRIPTION:Divulgação anual#pnadc3
+DTSTART;TZID=America/Sao_Paulo:20201217T090000
+DTEND;TZID=America/Sao_Paulo:20201217T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa Nacional por Amostra de Domicílios Contínua: Características Adicionais do Mercado de Trabalho
+DESCRIPTION:Divulgação anual#pnadc3
+DTSTART;TZID=America/Sao_Paulo:20200826T090000
+DTEND;TZID=America/Sao_Paulo:20200826T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa Nacional por Amostra de Domicílios Contínua: Turismo
+DESCRIPTION:Divulgação anual#pnadc3
+DTSTART;TZID=America/Sao_Paulo:20200812T090000
+DTEND;TZID=America/Sao_Paulo:20200812T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa Nacional por Amostra de Domicílios Contínua: Outras formas de trabalho
+DESCRIPTION:Divulgação anual#pnadc3
+DTSTART;TZID=America/Sao_Paulo:20200604T090000
+DTEND;TZID=America/Sao_Paulo:20200604T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa Nacional por Amostra de Domicílios Contínua: Características Gerais dos Domicílios e dos Moradores
+DESCRIPTION:Divulgação anual#pnadc3
+DTSTART;TZID=America/Sao_Paulo:20200506T090000
+DTEND;TZID=America/Sao_Paulo:20200506T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa Nacional por Amostra de Domicílios Contínua: Rendimento de todas as fontes
+DESCRIPTION:Divulgação anual#pnadc3
+DTSTART;TZID=America/Sao_Paulo:20200506T090000
+DTEND;TZID=America/Sao_Paulo:20200506T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa Nacional por Amostra de Domicílios Contínua: Acesso à Internet e à televisão e posse de telefone móvel celular para uso pessoal
+DESCRIPTION:Divulgação anual#pnadc3
+DTSTART;TZID=America/Sao_Paulo:20200429T090000
+DTEND;TZID=America/Sao_Paulo:20200429T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa Nacional por Amostra de Domicílios Contínua: Características Adicionais do Mercado de Trabalho
+DESCRIPTION:Divulgação anual#pnadc3
+DTSTART;TZID=America/Sao_Paulo:20191218T090000
+DTEND;TZID=America/Sao_Paulo:20191218T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa Nacional por Amostra de Domicílios Contínua : Rendimento de Todas as Fontes
+DESCRIPTION:Divulgação anual#pnadc3
+DTSTART;TZID=America/Sao_Paulo:20191016T090000
+DTEND;TZID=America/Sao_Paulo:20191016T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa Nacional por Amostra de Domicílios Contínua: outras formas de trabalho
+DESCRIPTION:Divulgação anual#pnadc3
+DTSTART;TZID=America/Sao_Paulo:20180418T090000
+DTEND;TZID=America/Sao_Paulo:20180418T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa Nacional por Amostra de Domicílios Contínua: rendimento de todas as fontes
+DESCRIPTION:Divulgação anual#pnadc3
+DTSTART;TZID=America/Sao_Paulo:20180411T090000
+DTEND;TZID=America/Sao_Paulo:20180411T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa Nacional por Amostra de Domicílios Contínua: Educação
+DESCRIPTION:Divulgação anual#pnadc3
+DTSTART;TZID=America/Sao_Paulo:20171221T090000
+DTEND;TZID=America/Sao_Paulo:20171221T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa Nacional por Amostra de Domicílios Contínua: Outras formas de trabalho
+DESCRIPTION:Divulgação anual#pnadc3
+DTSTART;TZID=America/Sao_Paulo:20171207T090000
+DTEND;TZID=America/Sao_Paulo:20171207T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa Nacional por Amostra de Domicílios Contínua Mensal
+DESCRIPTION:Divulgação anual#pnadc3
+DTSTART;TZID=America/Sao_Paulo:20170331T090000
+DTEND;TZID=America/Sao_Paulo:20170331T090000
+END:VEVENT
+END:VCALENDAR

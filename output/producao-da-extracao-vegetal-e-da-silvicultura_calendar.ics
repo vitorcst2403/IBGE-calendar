@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+SUMMARY:Produção da Extração Vegetal e da Silvicultura - PEVS
+DESCRIPTION:Produção da Extração Vegetal e da Silvicultura
+DTSTART;TZID=America/Sao_Paulo:20240926T090000
+DTEND;TZID=America/Sao_Paulo:20240926T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Produção da Extração Vegetal e da Silvicultura - PEVS
+DESCRIPTION:Produção da Extração Vegetal e da Silvicultura
+DTSTART;TZID=America/Sao_Paulo:20230927T090000
+DTEND;TZID=America/Sao_Paulo:20230927T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Produção da Extração Vegetal e da Silvicultura - PEVS
+DESCRIPTION:Produção da Extração Vegetal e da Silvicultura
+DTSTART;TZID=America/Sao_Paulo:20220929T090000
+DTEND;TZID=America/Sao_Paulo:20220929T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Produção da Extração Vegetal e da Silvicultura
+DESCRIPTION:Produção da Extração Vegetal e da Silvicultura
+DTSTART;TZID=America/Sao_Paulo:20211006T090000
+DTEND;TZID=America/Sao_Paulo:20211006T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Produção da Extração Vegetal e da Silvicultura - PEVS
+DESCRIPTION:Produção da Extração Vegetal e da Silvicultura
+DTSTART;TZID=America/Sao_Paulo:20201015T090000
+DTEND;TZID=America/Sao_Paulo:20201015T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Produção da Extração Vegetal e da Silvicultura
+DESCRIPTION:Produção da Extração Vegetal e da Silvicultura
+DTSTART;TZID=America/Sao_Paulo:20190919T090000
+DTEND;TZID=America/Sao_Paulo:20190919T090000
+END:VEVENT
+END:VCALENDAR

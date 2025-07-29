@@ -1,0 +1,172 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+SUMMARY:Prognóstico da Safra (3º prognóstico)
+DESCRIPTION:Prognóstico da Safra
+DTSTART;TZID=America/Sao_Paulo:20260115T090000
+DTEND;TZID=America/Sao_Paulo:20260115T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prognóstico da Safra (2º prognóstico)
+DESCRIPTION:Prognóstico da Safra
+DTSTART;TZID=America/Sao_Paulo:20251211T090000
+DTEND;TZID=America/Sao_Paulo:20251211T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prognóstico da Safra (1º prognóstico)
+DESCRIPTION:Prognóstico da Safra
+DTSTART;TZID=America/Sao_Paulo:20251113T090000
+DTEND;TZID=America/Sao_Paulo:20251113T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prognóstico da Safra (3º Prognóstico)
+DESCRIPTION:Prognóstico da Safra
+DTSTART;TZID=America/Sao_Paulo:20250114T090000
+DTEND;TZID=America/Sao_Paulo:20250114T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prognóstico da Safra (2º Prognóstico)
+DESCRIPTION:Prognóstico da Safra
+DTSTART;TZID=America/Sao_Paulo:20241212T090000
+DTEND;TZID=America/Sao_Paulo:20241212T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prognóstico da Safra (1º Prognóstico)
+DESCRIPTION:Prognóstico da Safra
+DTSTART;TZID=America/Sao_Paulo:20241114T090000
+DTEND;TZID=America/Sao_Paulo:20241114T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prognóstico da Safra (3º Prognóstico)
+DESCRIPTION:Prognóstico da Safra
+DTSTART;TZID=America/Sao_Paulo:20240110T090000
+DTEND;TZID=America/Sao_Paulo:20240110T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prognóstico da Safra (2º Prognóstico)
+DESCRIPTION:Prognóstico da Safra
+DTSTART;TZID=America/Sao_Paulo:20231207T090000
+DTEND;TZID=America/Sao_Paulo:20231207T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prognóstico da Safra (1º Prognóstico)
+DESCRIPTION:Prognóstico da Safra
+DTSTART;TZID=America/Sao_Paulo:20231109T090000
+DTEND;TZID=America/Sao_Paulo:20231109T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prognóstico da Safra (3º Prognóstico)
+DESCRIPTION:Prognóstico da Safra
+DTSTART;TZID=America/Sao_Paulo:20230112T090000
+DTEND;TZID=America/Sao_Paulo:20230112T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prognóstico da Safra (2º Prognóstico)
+DESCRIPTION:Prognóstico da Safra
+DTSTART;TZID=America/Sao_Paulo:20221208T090000
+DTEND;TZID=America/Sao_Paulo:20221208T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prognóstico da Safra (1º Prognóstico)
+DESCRIPTION:Prognóstico da Safra
+DTSTART;TZID=America/Sao_Paulo:20221109T090000
+DTEND;TZID=America/Sao_Paulo:20221109T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prognóstico da Safra (3º Prognóstico)
+DESCRIPTION:Prognóstico da Safra
+DTSTART;TZID=America/Sao_Paulo:20220111T090000
+DTEND;TZID=America/Sao_Paulo:20220111T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prognóstico da Safra (2º Prognóstico)
+DESCRIPTION:Prognóstico da Safra
+DTSTART;TZID=America/Sao_Paulo:20211209T090000
+DTEND;TZID=America/Sao_Paulo:20211209T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prognóstico da Safra (1º Prognóstico)
+DESCRIPTION:Prognóstico da Safra
+DTSTART;TZID=America/Sao_Paulo:20211111T090000
+DTEND;TZID=America/Sao_Paulo:20211111T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prognóstico da Safra (3º prognóstico)
+DESCRIPTION:Prognóstico da Safra
+DTSTART;TZID=America/Sao_Paulo:20210113T090000
+DTEND;TZID=America/Sao_Paulo:20210113T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prognóstico da Safra (2º prognóstico)
+DESCRIPTION:Prognóstico da Safra
+DTSTART;TZID=America/Sao_Paulo:20201210T090000
+DTEND;TZID=America/Sao_Paulo:20201210T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prognóstico da Safra (1º prognóstico)
+DESCRIPTION:Prognóstico da Safra
+DTSTART;TZID=America/Sao_Paulo:20201110T090000
+DTEND;TZID=America/Sao_Paulo:20201110T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prognóstico da Safra (3º Prognóstico)
+DESCRIPTION:Prognóstico da Safra
+DTSTART;TZID=America/Sao_Paulo:20200108T090000
+DTEND;TZID=America/Sao_Paulo:20200108T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prognóstico da Safra (2º Prognóstico)
+DESCRIPTION:Prognóstico da Safra
+DTSTART;TZID=America/Sao_Paulo:20191210T090000
+DTEND;TZID=America/Sao_Paulo:20191210T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prognóstico da Safra (1º Prognóstico)
+DESCRIPTION:Prognóstico da Safra
+DTSTART;TZID=America/Sao_Paulo:20191113T090000
+DTEND;TZID=America/Sao_Paulo:20191113T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prognóstico da Safra (3º prognóstico)
+DESCRIPTION:Prognóstico da Safra
+DTSTART;TZID=America/Sao_Paulo:20190110T090000
+DTEND;TZID=America/Sao_Paulo:20190110T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prognóstico da Safra (2º prognóstico)
+DESCRIPTION:Prognóstico da Safra
+DTSTART;TZID=America/Sao_Paulo:20181211T090000
+DTEND;TZID=America/Sao_Paulo:20181211T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prognóstico da Safra (1º prognóstico)
+DESCRIPTION:Prognóstico da Safra
+DTSTART;TZID=America/Sao_Paulo:20181108T090000
+DTEND;TZID=America/Sao_Paulo:20181108T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prognóstico da Safra (3º prognóstico)
+DESCRIPTION:Prognóstico da Safra
+DTSTART;TZID=America/Sao_Paulo:20180111T090000
+DTEND;TZID=America/Sao_Paulo:20180111T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prognóstico da Safra (2º prognóstico)
+DESCRIPTION:Prognóstico da Safra
+DTSTART;TZID=America/Sao_Paulo:20171212T090000
+DTEND;TZID=America/Sao_Paulo:20171212T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prognóstico da Safra (1º prognóstico)
+DESCRIPTION:Prognóstico da Safra
+DTSTART;TZID=America/Sao_Paulo:20171109T090000
+DTEND;TZID=America/Sao_Paulo:20171109T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prognóstico da Safra (3º prognóstico)
+DESCRIPTION:Prognóstico da Safra
+DTSTART;TZID=America/Sao_Paulo:20170110T090000
+DTEND;TZID=America/Sao_Paulo:20170110T090000
+END:VEVENT
+END:VCALENDAR

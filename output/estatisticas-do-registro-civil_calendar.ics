@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+SUMMARY:Estatísticas do Registro Civil
+DESCRIPTION:Estatísticas do Registro Civil#Vitais1
+DTSTART;TZID=America/Sao_Paulo:20250516T090000
+DTEND;TZID=America/Sao_Paulo:20250516T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Estatísticas do Registro Civil
+DESCRIPTION:Estatísticas do Registro Civil#Vitais1
+DTSTART;TZID=America/Sao_Paulo:20240327T090000
+DTEND;TZID=America/Sao_Paulo:20240327T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Estatísticas do Registro Civil
+DESCRIPTION:Estatísticas do Registro Civil#Vitais1
+DTSTART;TZID=America/Sao_Paulo:20230216T090000
+DTEND;TZID=America/Sao_Paulo:20230216T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Estatísticas do Registro Civil 2020: Divórcios
+DESCRIPTION:Estatísticas do Registro Civil#Vitais1
+DTSTART;TZID=America/Sao_Paulo:20220218T090000
+DTEND;TZID=America/Sao_Paulo:20220218T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Estatísticas do Registro Civil
+DESCRIPTION:Estatísticas do Registro Civil#Vitais1
+DTSTART;TZID=America/Sao_Paulo:20211118T090000
+DTEND;TZID=America/Sao_Paulo:20211118T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Estatísticas do Registro Civil
+DESCRIPTION:Estatísticas do Registro Civil#Vitais1
+DTSTART;TZID=America/Sao_Paulo:20201209T090000
+DTEND;TZID=America/Sao_Paulo:20201209T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Estatísticas do Registro Civil 2016
+DESCRIPTION:Estatísticas do Registro Civil#Vitais1
+DTSTART;TZID=America/Sao_Paulo:20171114T090000
+DTEND;TZID=America/Sao_Paulo:20171114T090000
+END:VEVENT
+END:VCALENDAR

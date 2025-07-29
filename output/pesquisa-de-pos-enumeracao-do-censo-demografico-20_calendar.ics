@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+SUMMARY:Pesquisa de Pós-Enumeração do Censo Demográfico 2022: Resultados da Análise da Cobertura
+DESCRIPTION:Pesquisa de Pós-Enumeração do Censo Demográfico 2022
+DTSTART;TZID=America/Sao_Paulo:20240822T090000
+DTEND;TZID=America/Sao_Paulo:20240822T090000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pesquisa de Pós-Enumeração do Censo Demográfico 2022: Resultados da Coleta e Análise de Conteúdo
+DESCRIPTION:Pesquisa de Pós-Enumeração do Censo Demográfico 2022
+DTSTART;TZID=America/Sao_Paulo:20240619T090000
+DTEND;TZID=America/Sao_Paulo:20240619T090000
+END:VEVENT
+END:VCALENDAR
